@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👩‍💻 Aya Ali  
 
-<!--
-**aya968/aya968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **AI & Data Science Student | Cairo University**  
+📊 Data Analysis | Machine Learning | Deep Learning  
+🔍 Interested in Generative AI, Predictive Modeling
+🌱 Currently learning: Advanced Data Analysis & Frontend Development  
+🚀 Projects: Data Preprocessing, Visualization Dashboards, ML Models, NLP, Computer Vision  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+
+---
+
+## 📫 Connect with Me  
+
+- [LinkedIn](https://www.linkedin.com/in/aya-ali-924932373)  
+- [Kaggle](https://www.kaggle.com/ayaali66)  
+- 📧 Email: ayaali66092@gmail.com.com  
+
+---
+
+✨ *Thanks for visiting my profile! Feel free to check out my projects and connect.*  
+ 
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/aya-ali-924932373) | [Kaggle](https://www.kaggle.com/ayaali66)
+
