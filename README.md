@@ -1,10 +1,7 @@
 # 👩‍💻 Aya Ali  
 
 🎓 **AI & Data Science Student | Cairo University**  
-📊 Data Analysis | Machine Learning | Deep Learning  
-🔍 Interested in Generative AI, Predictive Modeling
-🌱 Currently learning: Advanced Data Analysis & Frontend Development  
-🚀 Projects: Data Preprocessing, Visualization Dashboards, ML Models, NLP, Computer Vision  
+ Projects: Data Preprocessing, Visualization Dashboards, ML Models, NLP, Computer Vision  
 
 ---
 
